@@ -2,3 +2,6 @@
 
 Python Lession1
 https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN/PY0101EN-1-1-Write_your_first_python_code.ipynb?lti=true
+
+Python Lession2
+https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN/PY0101EN-1-2-Strings.ipynb?lti=true
