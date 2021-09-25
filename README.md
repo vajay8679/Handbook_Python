@@ -23,3 +23,6 @@ https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN/PY0101EN-
 
 Python Lession8
 https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN/PY0101EN-3-3-Functions.ipynb?lti=true
+
+Python Lession9
+https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/3-1.2ExcecptionHandling.ipynb?lti=true
