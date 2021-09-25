@@ -17,3 +17,6 @@ https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN/PY0101EN-
 
 Python Lession6
 https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN/PY0101EN-3-1-Conditions.ipynb?lti=true
+
+Python Lession7
+https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN/PY0101EN-3-2-Loops.ipynb?lti=true
