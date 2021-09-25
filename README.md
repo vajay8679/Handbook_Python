@@ -26,3 +26,6 @@ https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN/PY0101EN-
 
 Python Lession9
 https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/3-1.2ExcecptionHandling.ipynb?lti=true
+
+Python Lession10
+https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN/PY0101EN-3-4-Classes.ipynb?lti=true
