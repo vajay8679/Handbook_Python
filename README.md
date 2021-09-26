@@ -29,3 +29,6 @@ https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/3-1.2ExcecptionHan
 
 Python Lession10
 https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN/PY0101EN-3-4-Classes.ipynb?lti=true
+
+Python Lession11
+https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN/PY0101EN-4-1-ReadFile.ipynb?lti=true
