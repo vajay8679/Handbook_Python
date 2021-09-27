@@ -35,3 +35,6 @@ https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN/PY0101EN-
 
 Python Lession12
 https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN/PY0101EN-4-2-WriteFile.ipynb?lti=true
+
+Python Lession13
+https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN/PY0101EN-5-2-Numpy2D.ipynb?lti=true
