@@ -44,3 +44,6 @@ https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN/PY0101EN-
 
 Python Lession15
 https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN/PY0101EN-5.2_API_2.ipynb?lti=true
+
+Python Lession16
+https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN-5.3_Requests_HTTP.ipynb?lti=true
