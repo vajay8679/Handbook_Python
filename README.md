@@ -47,3 +47,6 @@ https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN/PY0101EN-
 
 Python Lession16
 https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN-5.3_Requests_HTTP.ipynb?lti=true
+
+Python Lession17
+https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN/WebScraping_Review_Lab.ipynb?lti=true
