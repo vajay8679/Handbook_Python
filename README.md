@@ -50,3 +50,6 @@ https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN-5.3_Reque
 
 Python Lession17
 https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN/WebScraping_Review_Lab.ipynb?lti=true
+
+Python Lession18
+https://labs.cognitiveclass.ai/tools/jupyterlab/lab/tree/labs/PY0101EN-5.4_WorkingWithDifferentFileTypes.ipynb?lti=true
